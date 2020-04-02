@@ -1,0 +1,4 @@
+﻿  通讯录.c
+f:\vs2015\通讯录\通讯录\通讯录.c(125): warning C4133: “函数”: 从“PersonInfo *”到“const char *”的类型不兼容
+  通讯录.vcxproj -> F:\vs2015\通讯录\Debug\通讯录.exe
+  通讯录.vcxproj -> F:\vs2015\通讯录\Debug\通讯录.pdb (Partial PDB)
