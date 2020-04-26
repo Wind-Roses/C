@@ -1,0 +1,9 @@
+﻿  sub.c
+  parse.c
+f:\vs2015\计算器（解析）\计算器（解析）\parse.c(71): warning C4013: “isspace”未定义；假设外部返回 int
+  mul.c
+  main.c
+  add.c
+  正在生成代码...
+  计算器（解析）.vcxproj -> F:\vs2015\计算器（解析）\x64\Debug\计算器（解析）.exe
+  计算器（解析）.vcxproj -> F:\vs2015\计算器（解析）\x64\Debug\计算器（解析）.pdb (Partial PDB)
